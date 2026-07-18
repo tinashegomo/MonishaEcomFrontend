@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/api/shop/:path*", "destination": "https://your-ecom-backend.onrender.com/api/shop/:path*" }
+  ]
+}
